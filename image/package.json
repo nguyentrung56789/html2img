@@ -1,9 +1,7 @@
 {
-  "name": "render-direct-png",
-  "private": true,
   "type": "module",
   "dependencies": {
-    "@sparticuz/chromium": "^119.0.2",
+    "@sparticuz/chromium": "^123.0.0",
     "puppeteer-core": "^22.15.0"
   }
 }
